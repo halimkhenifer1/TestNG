@@ -30,6 +30,6 @@ public class testClass {
     }
     @BeforeClass
     public void afterClass(){
-        
+
     }
 }
