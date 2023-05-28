@@ -14,7 +14,7 @@ public class testClass {
 
     @Test
     public void firstTest(){
-        System.out.println("this is first test");
+        System.out.println("this is first ");
         AddClass addClass=new AddClass();
         addClass.getSum(2,3);
         int res=addClass.getSum(2,3);
